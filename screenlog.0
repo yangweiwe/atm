@@ -1,0 +1,4 @@
+Mon Oct 29 00:00:00 CST 2018
+date: invalid date ‘+%s’
+date: invalid date ‘+%s’
+loop.sh: line 7: - : syntax error: operand expected (error token is "- ")
