@@ -29,7 +29,7 @@ output=`date -s "$time"`
 done
 
 # 在执行命令前需要创建一个空的同名repository
-git remote add origin git@github.com:yangweiwe/atm.git
+git remote add origin git@github.com:yangweiwe/auto.git
 git push -u origin master 
 
 # 执行脚本 示例
